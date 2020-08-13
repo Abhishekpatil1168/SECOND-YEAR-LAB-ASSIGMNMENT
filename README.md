@@ -1,2 +1,2 @@
 # SECOND-YEAR-LAB-ASSIGMNMENT
-Here are all academic lab assignments of ADS,CG,MP,OOP,DS
+Here are all academic lab assignments of ADS,CG,MP,OOP,DS ,of SAVITRIBAI PHULE PUNE UNIVERSITY(SPPU).
